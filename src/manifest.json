@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "闪烁阅读",
-  "version": "2.1",
+  "version": "0.0.2",
 
   "description": "将大段文字拆分成块，然后按顺序展示在弹窗中闪烁，从而实现提高阅读速度的目的。用鼠标选中准备阅读的段落，然后按快捷键 ctrl + shift + f，开始闪烁阅读。",
   "icons": {

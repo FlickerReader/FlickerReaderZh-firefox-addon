@@ -9,3 +9,6 @@ extension/*
 src/main.wasm
 src/dict.txt
 src/wasm_exec.js
+Sign.sh
+packages
+src/.web-extension-id
