@@ -6,7 +6,7 @@
 
 ## 示例
 
-
+![image](https://github.com/FlickerReader/FlickerReaderZh-firefox-addon/blob/master/doc/img/use.gif)
 
 ## 相关代码
 
