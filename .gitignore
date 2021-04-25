@@ -1,0 +1,11 @@
+node_modules
+build
+.vscode
+extension.xpi
+extension/icons
+extension/*
+!extension/launcher.js
+!extension/manifest.json
+src/main.wasm
+src/dict.txt
+src/wasm_exec.js

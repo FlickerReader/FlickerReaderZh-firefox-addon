@@ -1,0 +1,14 @@
+#speed {
+  -moz-appearance: textfield;
+}
+#note {
+  height: 130px;
+  min-width: 200px;
+  width: 100%;
+  text-align: center;
+}
+#note {
+  font-size: 24px;
+  font-height: 24px;
+  font-weight: bold;
+}
